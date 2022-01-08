@@ -26,4 +26,3 @@ int main ()
       printf ("Year %d is Not a Leap year", year);
     }
 }
-
